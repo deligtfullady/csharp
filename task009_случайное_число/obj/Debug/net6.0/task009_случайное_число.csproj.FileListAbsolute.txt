@@ -1,0 +1,15 @@
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\bin\Debug\net6.0\task009_случайное_число.exe
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\bin\Debug\net6.0\task009_случайное_число.deps.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\bin\Debug\net6.0\task009_случайное_число.runtimeconfig.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\bin\Debug\net6.0\task009_случайное_число.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\bin\Debug\net6.0\task009_случайное_число.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\refint\task009_случайное_число.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\task009_случайное_число.genruntimeconfig.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task009_случайное_число\obj\Debug\net6.0\ref\task009_случайное_число.dll

@@ -1,0 +1,15 @@
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task01_дз1\obj\Debug\net6.0\task01_дз1.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task01_дз1\obj\Debug\net6.0\task01_дз1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task01_дз1\obj\Debug\net6.0\task01_дз1.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task01_дз1\obj\Debug\net6.0\task01_дз1.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task01_дз1\obj\Debug\net6.0\task01_дз1.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое больше\obj\Debug\net6.0\task01_дз1.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое больше\obj\Debug\net6.0\task01_дз1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое больше\obj\Debug\net6.0\task01_дз1.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое больше\obj\Debug\net6.0\task01_дз1.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое больше\obj\Debug\net6.0\task01_дз1.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое_больше\obj\Debug\net6.0\task01_дз1.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое_больше\obj\Debug\net6.0\task01_дз1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое_больше\obj\Debug\net6.0\task01_дз1.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое_больше\obj\Debug\net6.0\task01_дз1.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task002_какое_больше\obj\Debug\net6.0\task01_дз1.csproj.CoreCompileInputs.cache

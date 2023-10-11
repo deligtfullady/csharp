@@ -1,0 +1,15 @@
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\bin\Debug\net6.0\task015_выходной_или_нет.exe
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\bin\Debug\net6.0\task015_выходной_или_нет.deps.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\bin\Debug\net6.0\task015_выходной_или_нет.runtimeconfig.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\bin\Debug\net6.0\task015_выходной_или_нет.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\bin\Debug\net6.0\task015_выходной_или_нет.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\refint\task015_выходной_или_нет.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\task015_выходной_или_нет.genruntimeconfig.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task015_выходной_или_нет\obj\Debug\net6.0\ref\task015_выходной_или_нет.dll

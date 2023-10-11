@@ -1,0 +1,15 @@
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\bin\Debug\net6.0\task011_удаление_второго_числа.exe
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\bin\Debug\net6.0\task011_удаление_второго_числа.deps.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\bin\Debug\net6.0\task011_удаление_второго_числа.runtimeconfig.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\bin\Debug\net6.0\task011_удаление_второго_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\bin\Debug\net6.0\task011_удаление_второго_числа.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\refint\task011_удаление_второго_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\task011_удаление_второго_числа.genruntimeconfig.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task011_удаление_второго_числа\obj\Debug\net6.0\ref\task011_удаление_второго_числа.dll

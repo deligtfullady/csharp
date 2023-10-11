@@ -1,0 +1,15 @@
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\bin\Debug\net6.0\task013_третью_цифру_числа.exe
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\bin\Debug\net6.0\task013_третью_цифру_числа.deps.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\bin\Debug\net6.0\task013_третью_цифру_числа.runtimeconfig.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\bin\Debug\net6.0\task013_третью_цифру_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\bin\Debug\net6.0\task013_третью_цифру_числа.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\refint\task013_третью_цифру_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\task013_третью_цифру_числа.genruntimeconfig.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task013_третью_цифру_числа\obj\Debug\net6.0\ref\task013_третью_цифру_числа.dll

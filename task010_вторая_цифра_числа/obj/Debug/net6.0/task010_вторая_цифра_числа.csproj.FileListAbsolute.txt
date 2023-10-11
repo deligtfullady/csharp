@@ -1,0 +1,15 @@
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\bin\Debug\net6.0\task010_вторая_цифра_числа.exe
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\bin\Debug\net6.0\task010_вторая_цифра_числа.deps.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\bin\Debug\net6.0\task010_вторая_цифра_числа.runtimeconfig.json
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\bin\Debug\net6.0\task010_вторая_цифра_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\bin\Debug\net6.0\task010_вторая_цифра_числа.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.csproj.AssemblyReference.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.AssemblyInfoInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.AssemblyInfo.cs
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.csproj.CoreCompileInputs.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\refint\task010_вторая_цифра_числа.dll
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.pdb
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\task010_вторая_цифра_числа.genruntimeconfig.cache
+C:\Users\Irina\OneDrive\Рабочий стол\Учеба\C#\task010_вторая_цифра_числа\obj\Debug\net6.0\ref\task010_вторая_цифра_числа.dll
