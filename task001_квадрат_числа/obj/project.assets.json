@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task00_квадрат_числа\\task00_квадрат_числа.csproj",
+      "projectUniqueName": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task001_квадрат_числа\\task00_квадрат_числа.csproj",
       "projectName": "task00_квадрат_числа",
-      "projectPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task00_квадрат_числа\\task00_квадрат_числа.csproj",
+      "projectPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task001_квадрат_числа\\task00_квадрат_числа.csproj",
       "packagesPath": "C:\\Users\\Irina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task00_квадрат_числа\\obj\\",
+      "outputPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task001_квадрат_числа\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Irina\\AppData\\Roaming\\NuGet\\NuGet.Config"

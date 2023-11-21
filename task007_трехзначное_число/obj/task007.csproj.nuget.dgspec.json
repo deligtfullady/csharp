@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007\\task007.csproj": {}
+    "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007_трехзначное_число\\task007.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007\\task007.csproj": {
+    "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007_трехзначное_число\\task007.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007\\task007.csproj",
+        "projectUniqueName": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007_трехзначное_число\\task007.csproj",
         "projectName": "task007",
-        "projectPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007\\task007.csproj",
+        "projectPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007_трехзначное_число\\task007.csproj",
         "packagesPath": "C:\\Users\\Irina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007\\obj\\",
+        "outputPath": "C:\\Users\\Irina\\OneDrive\\Рабочий стол\\Учеба\\C#\\task007_трехзначное_число\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Irina\\AppData\\Roaming\\NuGet\\NuGet.Config"

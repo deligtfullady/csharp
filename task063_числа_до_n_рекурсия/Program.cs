@@ -4,12 +4,17 @@
 
 Console.Clear();
 
-System.Console.WriteLine("Введите три числа: ");
+System.Console.WriteLine("Введите числo: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 void intN(int number, int current = 1)
 {
-    while (current <= number)
+    if (current >= number)
+    {
     System.Console.WriteLine(current + " ");
     intN(number, current + 1);
+    }
+    else
+        return;
 }
+intN(number);
